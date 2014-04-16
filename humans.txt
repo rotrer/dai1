@@ -1,0 +1,20 @@
+/* dondejose.cl | Fishing Lodge*/
+
+/* TEAM */
+	Creator: Cristian Alvarado D
+	Contact: cristian.alvarado.donoso [at] gmail.com
+	Twitter: @rotrer
+	From: Santiago, Chile.
+	
+/* IN MEMORIAL */
+	Antonio Zapata Ruiz
+
+/* THANKS */
+	Mauro, Raúl, Mario
+	
+/* SITE */
+	Last Update: 2014/04/15
+	Language: Español
+	Standards: HTML5, CSS3, JavaScript
+	Components: jQuery
+	Software: SublimeText2, Photoshop, git
