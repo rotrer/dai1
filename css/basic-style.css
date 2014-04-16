@@ -223,7 +223,31 @@ a.buttonlink:hover{
 	float:left;
 }
 
+article form fieldset div label {
+	display: block;
+	padding-top: 10px;
+}
 
+article form fieldset div input[type="submit"] {
+	background: none repeat scroll 0 0 #0099FF;
+    border: 4px none;
+    color: #FFFFFF;
+    height: 45px;
+    margin: 10px 0 0;
+    padding: 0 15px;
+}
+article form fieldset div input[type="submit"]:hover {
+	background: none repeat scroll 0 0 #666666;
+}
+
+article form fieldset .widhtfield {
+	width: 50%;
+	height: 40px;
+}
+
+article form fieldset div textarea {
+	height: 150px !important;
+}
 /*
 LARGER MOBILE DEVICES
 */
